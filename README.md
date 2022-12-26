@@ -37,12 +37,11 @@ Papers for Web service classification
 - ServeNet: A Deep Neural Network for Web Services Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9284071)
 - A Novel Dual-Graph Convolutional Network based Web Service Classification Framework  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9284004)
 - Spectral Clustering of Web Services by Fusing Document-based and Tag-based Topics Similarity  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9406908)
-- 
+- A Latent Feature-Based Multimodality Fusion Method for Theme Classification on Web Map Service  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8908799)
 
 
 ## 2019
 - Deep Learning for Web Services Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8818445)
-- Web Service QoS Classification Based on Optimized Convolutional Neural Network  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9170368)
 - A Web Services Classification Method Based on GCN  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9047453)
 - Web Services Classification Based on Wide & Bi-LSTM Model  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8674750)
 - Web Service Classification using Stacking  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970755)
@@ -99,3 +98,5 @@ Papers for Web service classification
 - Web Service Classification Using Support Vector Machine  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5670012)
 - A Composed Approach for Automatic Classification of Web Services Robustness  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6009259)
 
+## Survey paper
+- A survey on clustering methods in web service discovery  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8067866)
