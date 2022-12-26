@@ -21,7 +21,6 @@ Papers for Web service classification
 - ServeNet-LT: A Normalized Multi-head Deep Neural Network for Long-tailed Web Services Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590313)
 - A Classification of Web Service Credibility Measures  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9529561)
 - LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9444291)
-- LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9444291)
 - A Classification Based Web Service Selection Approach  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8290689)
 - An LDA-SVM Active Learning Framework for Web Service Classification[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773416)
 - WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590202)
