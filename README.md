@@ -9,13 +9,12 @@ Papers for Web service classification
 - Attentional Neural Factorization Machine for Web Services Classification via Exploring Content and Structural Semantics  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9892320)
 - DeepLTSC: Long-Tail Service Classification via Integrating Category Attentive Deep Neural Network and Feature Augmentation  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9714492)
 - HSG-CDM: A Heterogeneous Service Graph Contextual Deep Model for Web Service Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9860195)
-- A Service Selection Method Based on Ordinal Classification for Historical Records  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9072346)
 
 
 ## 2021
 - Heterogeneous Graph Attention Network-Enhanced Web Service Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590331)
 - AMSC: Adaptive Multi-channel Graph Convolutional Network-Enhanced Web Services Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780969)
-- Bilinear Graph Neural Network-Enhanced Web Services Classification  [PDF](Bilinear Graph Neural Network-Enhanced Web Services Classification)
+- Bilinear Graph Neural Network-Enhanced Web Services Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780978)
 - Word Embedding-based Web Service Representations for Classification and Clustering  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9592392)
 - Transfer Learning for Web Services Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590444)
 - ServeNet-LT: A Normalized Multi-head Deep Neural Network for Long-tailed Web Services Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590313)
