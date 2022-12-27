@@ -61,61 +61,75 @@ Papers for Web service classification
 - An Overview and Classification of Service Description Approaches in Automated Service Composition Research  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7169595)
 - Consumer oriented web services ranking and classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7997263)
 
-
 ## 2016
-
+- An LDA-SVM Active Learning Framework for Web Service Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557984)
+- An Approach of Semantic Web Service Classification Based on Naive Bayes[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557473)
+- Web services ontology population through text classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7733283)
 
 ## 2015
 - QoS based classification using K-Nearest Neighbor algorithm for effective web service selection  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226093)
+- Web Services Clustering Using a Bio-inspired Algorithm  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406291)- Web Services Clustering Using a Bio-inspired Algorithm  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406291)
+- Web Service classification using Multi-Layer Perceptron optimized with Tabu search [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154716)
+- A Semantic Similarity Measure for Conceptual Web Services Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7194344)
+- A composite classification model for web services based on semantic & syntactic information integration  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154887)
+
 ## 2014
 - Automatic semantic classification and categorization of web services in digital environment  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7066749)
+- Annotating Web Service Sections with Combined Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928952)
+- Data mining algorithms for Web-services classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7019644)
+- Towards Effectively Identifying RESTful Web Services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928939)
 
 ## 2013
-
+- A novel classification of web service composition and optimization approach using skyline algorithm integrated with agents  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6724188)
+- An ARSM approach using PCB-QoS classification for web services: A multi-perspective view  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6637165)
 
 ## 2012
 - A Relational Taxonomy of Services for Large Scale Service Repositories  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6257937)
 - An Automated Web Services Composition System Based on Service Classification and AI Planning  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6382868)
-- 
+- SuStorID: A multiple classifier system for the protection of web services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6460643)
+- Web Service Classification Based on Automatic Semantic Annotation and Ensemble Learning  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6270593)
+
 ## 2011
 - The research and implementation of Web Service classification and discovery based on semantic  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5960102)
+- An Automated Approach to Web Service Classification Based on Semantic  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6118853)
+- ASWSC: Automatic semantic web services classifier based on semantic relations  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6141057)
+- Locality Sensitive Hashing Based Service Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5998757)
+- A Composed Approach for Automatic Classification of Web Services Robustness  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6009259)
 
 ## 2010
 - A managerial community of Web Services for management of communities of Web Services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5536782)
 - Effort-Oriented Classification Matrix of Web Service Composition  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5476517)
-## BEFORE
-
-
-
-
-
-
-- QoS based classification using K-Nearest Neighbor algorithm for effective web service selection  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226093)
-- An Automated Approach to Web Service Classification Based on Semantic  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6118853)
 - Constructing Service Network via Classification and Annotation  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5569926)
-- An LDA-SVM Active Learning Framework for Web Service Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557984)
-- An Approach of Semantic Web Service Classification Based on Naive Bayes[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557473)
-- Web services ontology population through text classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7733283)
 - Method to Dynamic Classification of Trust for Web Service Based on Intuitionistic Fuzzy Clustering  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5676900)
-- A novel classification of web service composition and optimization approach using skyline algorithm integrated with agents  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6724188)
-- Annotating Web Service Sections with Combined Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928952)
+- Measuring Similarity of Web Services Based on WSDL  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5552789)
 - Web Services System Optimization Based on Modular Classification and Multi-Threading  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5575687)
-- Web Services Clustering Using a Bio-inspired Algorithm  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406291)
 - Classifying customers using navigational history for developing personalized Web services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5530273)
-- ASWSC: Automatic semantic web services classifier based on semantic relations  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6141057)
-- An ARSM approach using PCB-QoS classification for web services: A multi-perspective view  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6637165)
 - Light-weight semantics and Bayesian Classification: A hybrid technique for dynamic Web Service discovery  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5558952)
-- Web Service classification using Multi-Layer Perceptron optimized with Tabu search [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154716)
-- A Semantic Similarity Measure for Conceptual Web Services Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7194344)
-- Web service composition: Models and approaches  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6320309)
-- SuStorID: A multiple classifier system for the protection of web services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6460643)
-- Locality Sensitive Hashing Based Service Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5998757)
-- Data mining algorithms for Web-services classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7019644)
-- Towards Effectively Identifying RESTful Web Services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928939)
-- A composite classification model for web services based on semantic & syntactic information integration  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154887)
-- Web Service Classification Based on Automatic Semantic Annotation and Ensemble Learning  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6270593)
 - Web Service Classification Using Support Vector Machine  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5670012)
-- A Composed Approach for Automatic Classification of Web Services Robustness  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6009259)
+- Constructing Service Network via Classification and Annotation  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5569926)
+- Applying Text Classification Algorithms in Web Services Robustness Testing  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5623398)
+
+## 2009
+- Web Services Classification Based on Intelligent Clustering Techniques  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5232105)
+- Quality-context based SOA registry classification for quality of services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4809528)
+- A Research on QoS-based Ontology Model for Web Services Discovery  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4772053) 
+- A hybrid approach to QoS-aware Web Service classification and recommendation  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5284738)
+
+
+## 2008
+- WSPAB: A Tool for Automatic Classification & Selection of Web Services Using Formal Concept Analysis  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4711647)
+- Quality Context Taxonomy for Web Service Quality Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4682031)
+- Domain Classification by Granular Computing used in a P2P Approach for Web Service Discovery  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4741329)
+- Multi-level Semantic matching of Geospatial Web Services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5293450)
+- A Faceted Classification Based Approach to Search and Rank Web APIs  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4670174)
+- Classification of SOA Contract Specification Languages  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4670205)
+
+## BEFORE
+- (2015) An approach to support Web service classification and annotation  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1402283)
+- (2016) Service Classification Using Adaptive Back-Propagation Neural Network and Semantic Similarity  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4019222)
+
+
 
 ## Survey paper
 - A survey on clustering methods in web service discovery  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8067866)
+- Web service composition: Models and approaches  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6320309)
