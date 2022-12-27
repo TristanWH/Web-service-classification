@@ -14,12 +14,6 @@ Papers for Web service classification
 - Retraction Note to: Automated query classification based web service similarity technique using machine learning  [PDF](https://link.springer.com/article/10.1007/s12652-022-04307-9)
 - Multi-information fusion based few-shot Web service classification  [PDF](https://www.sciencedirect.com/science/article/pii/S0167739X2100501X)
 - Graph4Web: A relation-aware graph attention network for web service classification  [PDF](https://www.sciencedirect.com/science/article/pii/S0164121222000681)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
-
 
 ## 2021
 - Heterogeneous Graph Attention Network-Enhanced Web Service Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590331)
@@ -44,12 +38,7 @@ Papers for Web service classification
 - QoS Aware Classification of Composite Web Services Using Rough Approximation  [PDF](https://link.springer.com/chapter/10.1007/978-3-030-85977-0_12)
 - RETRACTED ARTICLE: Automated query classification based web service similarity technique using machine learning  [PDF](https://link.springer.com/article/10.1007/s12652-020-02186-6)
 - Co-attentive representation learning for web services classification  [PDF](https://www.sciencedirect.com/science/article/pii/S095741742100511X)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
+- Residual attention graph convolutional network for web services classification  [PDF](https://www.sciencedirect.com/science/article/pii/S0925231221001715)
 
 
 ## 2020
@@ -64,15 +53,8 @@ Papers for Web service classification
 - A Spatial and Sequential Combined Method for Web Service Classification  [PDF](https://link.springer.com/chapter/10.1007/978-3-030-60259-8_56)
 - Top-k% Concept Stratagem for Classifying Semantic Web Services  [PDF](https://link.springer.com/chapter/10.1007/978-981-13-8618-3_22)
 - Semantic web service composition using semantic similarity measures and formal concept analysis  [PDF](https://link.springer.com/article/10.1007/s11042-019-08441-z)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
+- Efficient fuzzy based K-nearest neighbour technique for web services classification  [PDF](https://www.sciencedirect.com/science/article/pii/S0141933120301150)
+
 
 ## 2019
 - Deep Learning for Web Services Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8818445)
@@ -85,15 +67,6 @@ Papers for Web service classification
 - Web Services Classification with Topical Attention Based Bi-LSTM  [PDF](https://link.springer.com/chapter/10.1007/978-3-030-30146-0_27)
 - Web Services Classification Across Cloud-Based Applications  [PDF](https://link.springer.com/chapter/10.1007/978-981-13-0589-4_23)
 - N-Gram Representation for Web Service Description Classification  [PDF](https://link.springer.com/chapter/10.1007/978-3-030-13709-0_38)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
 
 
 ## 2018
@@ -101,15 +74,6 @@ Papers for Web service classification
 - Availability of Web Services based on Autonomous Classification and Negotiation of SLAs  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8525913)
 - Cloud Service Selection with Fuzzy C-Means Artificial Immune Network Memory Classifier  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8564303)
 - A new semantic web service classification (SWSC) strategy  [PDF](https://link.springer.com/article/10.1007/s10586-018-2367-9)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
 
 ## 2017
 - Identifying Characteristic Attributes for Estimating Cost of Service in Service Oriented Architecture  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8035019)
@@ -117,17 +81,7 @@ Papers for Web service classification
 - An Overview and Classification of Service Description Approaches in Automated Service Composition Research  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7169595)
 - Consumer oriented web services ranking and classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7997263)
 - Web service classification approach with an integrated similarity measure  [PDF](https://link.springer.com/chapter/10.2991/978-94-6239-255-7_45)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   
+   
 ## 2016
 - An LDA-SVM Active Learning Framework for Web Service Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557984)
 - An Approach of Semantic Web Service Classification Based on Naive Bayes[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557473)
@@ -135,15 +89,9 @@ Papers for Web service classification
 - A Majority Vote Based Classifier Ensemble for Web Service Classification  [PDF](https://link.springer.com/article/10.1007/s12599-015-0407-z)
 - Semantic approach for Web service classification using machine learning and measures of semantic relatedness  [PDF](https://link.springer.com/article/10.1007/s11761-015-0182-1)
 - Semantics-based Web service classification using morphological analysis and ensemble learning techniques  [PDF](https://link.springer.com/article/10.1007/s41060-016-0026-x)
-- 
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   
+- Semantic approach for Web service classification using machine learning and measures of semantic relatedness  [PDF](https://linkspringer.53yu.com/article/10.1007/s11761-015-0182-1)
+- Towards web service classification using addresses and DNS  [PDF](https://ieeexplore.ieee.org/abstract/document/7577030/)
+
 ## 2015
 - QoS based classification using K-Nearest Neighbor algorithm for effective web service selection  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226093)
 - Web Services Clustering Using a Bio-inspired Algorithm  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406291)- Web Services Clustering Using a Bio-inspired Algorithm  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406291)
@@ -153,45 +101,19 @@ Papers for Web service classification
 - A text mining based approach for web service classification  [PDF](https://link.springer.com/article/10.1007/s10257-014-0252-5)
 - Semantic Matching-Based Selection and QoS-Aware Classification of Web Services  [PDF](https://link.springer.com/chapter/10.1007/978-3-319-27030-2_7)
 - Rough set based classification of real world Web services  [PDF](https://link.springer.com/article/10.1007/s10796-014-9496-3)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   
+
 ## 2014
 - Automatic semantic classification and categorization of web services in digital environment  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7066749)
 - Annotating Web Service Sections with Combined Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928952)
 - Data mining algorithms for Web-services classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7019644)
 - Towards Effectively Identifying RESTful Web Services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928939)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
+
 ## 2013
 - A novel classification of web service composition and optimization approach using skyline algorithm integrated with agents  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6724188)
 - An ARSM approach using PCB-QoS classification for web services: A multi-perspective view  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6637165)
 - Automatic web services classification based on rough set theory  [PDF](https://link.springer.com/article/10.1007/s11771-013-1787-1)
 - WS-DIRECT: Web Service—Discoverability, Recoverability, Classifiability and Trustworthiness  [PDF](https://link.springer.com/chapter/10.1007/978-94-007-5857-5_95)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
+
 ## 2012
 - A Relational Taxonomy of Services for Large Scale Service Repositories  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6257937)
 - An Automated Web Services Composition System Based on Service Classification and AI Planning  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6382868)
@@ -199,14 +121,7 @@ Papers for Web service classification
 - Web Service Classification Based on Automatic Semantic Annotation and Ensemble Learning  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6270593)
 - A Classification of Model-Driven Approaches to Develop Semantic Web Service  [PDF](https://link.springer.com/chapter/10.1007/978-94-007-2792-2_38)
 - Machine Learning for Automatic Classification of Web Service Interface Descriptions  [PDF](https://link.springer.com/chapter/10.1007/978-3-642-34781-8_17)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
+
 ## 2011
 - The research and implementation of Web Service classification and discovery based on semantic  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5960102)
 - An Automated Approach to Web Service Classification Based on Semantic  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6118853)
@@ -214,16 +129,7 @@ Papers for Web service classification
 - Locality Sensitive Hashing Based Service Classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5998757)
 - A Composed Approach for Automatic Classification of Web Services Robustness  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6009259)
 - An Automatic Service Classification Approach  [PDF](https://link.springer.com/chapter/10.1007/978-3-642-25661-5_65)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
+
 ## 2010
 - A managerial community of Web Services for management of communities of Web Services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5536782)
 - Effort-Oriented Classification Matrix of Web Service Composition  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5476517)
@@ -238,14 +144,8 @@ Papers for Web service classification
 - Applying Text Classification Algorithms in Web Services Robustness Testing  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5623398)
 - A WSDL Structure Based Approach for Semantic Categorization of Web Service Elements  [PDF](https://link.springer.com/chapter/10.1007/978-3-642-12842-4_39)
 - Combining Document Classification and Ontology Alignment for Semantically Enriching Web Services  [PDF](https://link.springer.com/article/10.1007/s00354-009-0094-8)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
+- Web-services classification using intelligent techniques  [PDF](https://www.sciencedirect.com/science/article/pii/S0957417410001028)
+
 ## 2009
 - Web Services Classification Based on Intelligent Clustering Techniques  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5232105)
 - Quality-context based SOA registry classification for quality of services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4809528)
@@ -253,15 +153,6 @@ Papers for Web service classification
 - A hybrid approach to QoS-aware Web Service classification and recommendation  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5284738)
 - On the Combination of Textual and Semantic Descriptions for Automated Semantic Web Service Classification  [PDF](https://link.springer.com/chapter/10.1007/978-1-4419-0221-4_13)
 - On the Combination of Textual and Semantic Descriptions for Automated Semantic Web Service Classification  [PDF](https://link.springer.com/chapter/10.1007/978-1-4419-0221-4_13)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
 
 ## 2008
 - WSPAB: A Tool for Automatic Classification & Selection of Web Services Using Formal Concept Analysis  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4711647)
@@ -274,14 +165,8 @@ Papers for Web service classification
 - A Graph b-Coloring Based Method for Composition-Oriented Web Services Classification  [PDF](https://link.springer.com/chapter/10.1007/978-3-540-68123-6_65)
 - Classification of Web Services Using Tensor Space Model and Rough Ensemble Classifier  [PDF](https://link.springer.com/chapter/10.1007/978-3-540-68123-6_55)
 - A Formal Model for Classifying Trusted Semantic Web Services  [PDF](https://link.springer.com/chapter/10.1007/978-3-540-89704-0_37)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
+- Awsc: An approach to web service classification based on machine learning techniques  [PDF](https://www.redalyc.org/pdf/925/92503704.pdf)
+
 ## BEFORE
 - (2005) An approach to support Web service classification and annotation  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1402283)
 - (2006) Service Classification Using Adaptive Back-Propagation Neural Network and Semantic Similarity  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4019222)
@@ -291,17 +176,11 @@ Papers for Web service classification
 - (2005) METEOR-S Web Service Annotation Framework with Machine Learning Classification  [PDF](https://link.springer.com/chapter/10.1007/978-3-540-30581-1_12)
 - (2006) WSTO: A Classification-Based Ontology for Managing Trust in Semantic Web Services  [PDF](https://link.springer.com/chapter/10.1007/11762256_50)
 - (2004) Iterative Ensemble Classification for Relational Data: A Case Study of Semantic Web Services  [PDF](https://link.springer.com/chapter/10.1007/978-3-540-30115-8_17)
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
--   [PDF]()
-
+- (2007) Towards a classification of web service feature interactions  [PDF](https://www.sciencedirect.com/science/article/pii/S138912860600212X)
+- (2006) A heuristic approach to semantic web services classification [PDF](https://linkspringer.53yu.com/chapter/10.1007/11893011_76)
 
 ## Survey paper
 - A survey on clustering methods in web service discovery  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8067866)
 - Web service composition: Models and approaches  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6320309)
 - Web Services Testing Approaches: A Survey and a Classification  [PDF](https://link.springer.com/chapter/10.1007/978-3-642-14306-9_8)
+- A systematic literature review on web service clustering approaches to enhance service discovery, selection and recommendation  [PDF](https://www.sciencedirect.com/science/article/pii/S157401372200034X)
