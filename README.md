@@ -62,13 +62,34 @@ Papers for Web service classification
 - Consumer oriented web services ranking and classification  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7997263)
 
 
-## BEFORE
+## 2016
+
+
+## 2015
+- QoS based classification using K-Nearest Neighbor algorithm for effective web service selection  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226093)
+## 2014
+- Automatic semantic classification and categorization of web services in digital environment  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7066749)
+
+## 2013
+
+
+## 2012
 - A Relational Taxonomy of Services for Large Scale Service Repositories  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6257937)
+- An Automated Web Services Composition System Based on Service Classification and AI Planning  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6382868)
+- 
+## 2011
 - The research and implementation of Web Service classification and discovery based on semantic  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5960102)
+
+## 2010
 - A managerial community of Web Services for management of communities of Web Services  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5536782)
 - Effort-Oriented Classification Matrix of Web Service Composition  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5476517)
-- Automatic semantic classification and categorization of web services in digital environment  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7066749)
-- An Automated Web Services Composition System Based on Service Classification and AI Planning  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6382868)
+## BEFORE
+
+
+
+
+
+
 - QoS based classification using K-Nearest Neighbor algorithm for effective web service selection  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226093)
 - An Automated Approach to Web Service Classification Based on Semantic  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6118853)
 - Constructing Service Network via Classification and Annotation  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5569926)
