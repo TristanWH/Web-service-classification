@@ -6,12 +6,12 @@
 
 - **Attentional Neural Factorization Machine for Web Services Classification via Exploring Content and Structural Semantics**  <br>
 [IJCNN] (ccf-c)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9892320) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9892320)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/) <br>
 
 
 - **HSG-CDM: A Heterogeneous Service Graph Contextual Deep Model for Web Service Classification**  <br>
 [IEEE SCC] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9860195) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9860195)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/)  <br>
 
 
 ### Article
@@ -36,27 +36,27 @@
 
 - **Heterogeneous Graph Attention Network-Enhanced Web Service Classification**   <br>
 [ICWC] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590331) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590331)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/)  <br>
 
 
 - **AMSC: Adaptive Multi-channel Graph Convolutional Network-Enhanced Web Services Classification**   <br>
 [IEEE HPCC/Smartcity/DSS /DependSys/ICESS/DIKW] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780969) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780969)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/)  <br>
 
 
 - **Bilinear Graph Neural Network-Enhanced Web Services Classification**   <br>
 [IEEE HPCC/Smartcity/DSS /DependSys/ICESS/DIKW] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780978) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780978)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/)  <br>
 
 
 - **Word Embedding-based Web Service Representations for Classification and Clustering**   <br>
 [IEEE SCC] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9592392) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9592392)  　[CODE](https://github.com/zxp93/wsr)   　[DATASET](https://github.com/zxp93/wsr/tree/master/data) <br>
 
 
 - **ServeNet-LT: A Normalized Multi-head Deep Neural Network for Long-tailed Web Services Classification**   <br>
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590313) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590313)  　[CODE](https://github.com/miss-rain/serveNet-LT) <br>
 
 
 - **A Classification of Web Service Credibility Measures**   <br>
@@ -66,47 +66,32 @@
 
 - **An LDA-SVM Active Learning Framework for Web Service Classification**  <br>
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773416) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773416)  　[DATASET](http://wiki.cse.cuhk.edu.hk/user/ylzhang/doku.php?id=icwsdata)  <br>
 
 
-- **WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction**   <br>
+- **WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction**  　[DATASET](http://kpnm.hnust.cn/xstdset.html)  <br>
 [ICWS] (ccf-b)  　IEEE  <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590202) <br>
 
 
 - **Web Service Classification Based on Reinforcement Learning and Structured Representation Learning**   <br>
 [AIBT] (EI)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9694006) <br>
-
-
-- **Web Page Classification based on Unsupervised Learning using MIME type Analysis**   <br>
-[COMSNETS] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9352869) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9694006)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/)  <br>
 
 
 - **Multinomial Naive Bayes Categorization for Semantic Web Services**   <br>
 [ICDATA] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9588084) <br>
-
-
-- **Trends in Web APIs Classification, Selection, and Composition**   <br>
-[ICECET] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9698547) <br>
-
-
-- **A Look Behind the Curtain: Traffic Classification in an Increasingly Encrypted Web**   <br>
-[POMACS] () 　ACM  <br>
-[PDF](https://dl.acm.org/doi/10.1145/3410220.3453921) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9588084)   　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html)  <br>
 
 
 - **Effective Web Service Classification Using a Hybrid of Ontology Generation and Machine Learning Algorithm**   <br>
 [IRICT] () 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-3-030-70713-2_30) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-70713-2_30)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/)  <br>
 
 
 - **MMA-Net: A MultiModal-Attention-Based Deep Neural Network for Web Services Classification**   <br>
 [ICSOC] (ccf-b) 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_48) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_48)  　[DATASET](https://github.com/miss-rain/serveNet-LT) <br>
 
 
 - **QoS Aware Classification of Composite Web Services Using Rough Approximation**   <br>
@@ -114,31 +99,26 @@
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-85977-0_12) <br>
 
 
-- **RETRACTED ARTICLE: Automated query classification based web service similarity technique using machine learning**   <br>
-[ICIKS] () 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s12652-020-02186-6) <br>
-
-
 ### Article
 
 - **LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features**   <br>
 [IEEE Transactions on Network and Service Management] (ccf-c,JCR-Q2)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9444291) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9444291)  　[DATASET](http://kpnm.hnust.cn/xstdset.html)  <br>
 
 
 - **A Classification Based Web Service Selection Approach**   <br>
 [IEEE Transactions on Services Computing]  　IEEE  (JCR-Q1) <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8290689) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8290689)  　[DATASET](http://www.uoguelph.ca/~qmahmoud/qws) <br>
 
 
 - **Co-attentive representation learning for web services classification**   <br>
 [EXPERT SYSTEMS WITH APPLICATIONS] (JCR-Q1) 　Elsevier  <br>
-[PDF](https://www.sciencedirect.com/science/article/pii/S095741742100511X) <br>
+[PDF](https://www.sciencedirect.com/science/article/pii/S095741742100511X)  　[CODE](https://github.com/tangbin9527/Service-Classification)  　[DATASET](https://github.com/tangbin9527/Service-Classification/tree/master/data) <br>
 
 
 - **Residual attention graph convolutional network for web services classification**   <br>
 [Neurocomputing] (JCR=Q2) 　Elsevier  <br>
-[PDF](https://www.sciencedirect.com/science/article/pii/S0925231221001715) <br>
+[PDF](https://www.sciencedirect.com/science/article/pii/S0925231221001715)  　[DATASET](http://kpnm.hnust.cn/xstdset.html)  <br>
 
 
 ## 2020
@@ -752,6 +732,11 @@
 - **A systematic literature review on web service clustering approaches to enhance service discovery, selection and recommendation**   <br>
 [Computer Science Review] (JCR-Q1) 　Elsevier  <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S157401372200034X) <br>
+
+
+- **Trends in Web APIs Classification, Selection, and Composition**   <br>
+[ICECET] ()  　IEEE  <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9698547) <br>
 
 
 
