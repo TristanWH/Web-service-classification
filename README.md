@@ -69,9 +69,9 @@
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773416)  　[DATASET](http://wiki.cse.cuhk.edu.hk/user/ylzhang/doku.php?id=icwsdata)  <br>
 
 
-- **WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction**  　[DATASET](http://kpnm.hnust.cn/xstdset.html)  <br>
+- **WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction**
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590202) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590202)  　[DATASET](http://kpnm.hnust.cn/xstdset.html)  <br> <br>
 
 
 - **Web Service Classification Based on Reinforcement Learning and Structured Representation Learning**   <br>
