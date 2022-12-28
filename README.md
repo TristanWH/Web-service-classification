@@ -214,21 +214,30 @@
 
 
 ## 2019
+
 ### Conference paper
-### Article
+
 - **Deep Learning for Web Services Classification**   <br>
-[] () <br>
+[ICWS] (ccf-b) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8818445) <br>
 
 
 - **A Web Services Classification Method Based on GCN**   <br>
-[] () <br>
+[BdCloud] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9047453) <br>
 
 
+
+
+### Article
+
 - **Web Services Classification Based on Wide & Bi-LSTM Model**   <br>
-[] () <br>
+[IEEE Access] (JCR-Q2) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8674750) <br>
+
+
+
+
 
 
 - **Web Service Classification using Stacking**   <br>
