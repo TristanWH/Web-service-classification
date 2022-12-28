@@ -17,21 +17,12 @@
 ### Article
 - **DeepLTSC: Long-Tail Service Classification via Integrating Category Attentive Deep Neural Network and Feature Augmentation**  <br>
 [IEEE Transactions on Network and Service Management] (ccf-c,JCR-Q2)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9714492) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9714492)  　[DATASET](https://scdm-shu.github.io/papers/datasets/PW-Dataset.zip) <br>
 
-
-- **Traffic classification in an increasingly encrypted web**  <br>
-[COMMUN ACM] (JCR-Q1) 　ACM  <br>
-[PDF](https://dl.acm.org/doi/10.1145/3559439)<br>
-
-
-- **Retraction Note to: Automated query classification based web service similarity technique using machine learning**  <br>
-[Journal of Ambient Intelligence and Humanized Computing] (JCR-Q2) 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s12652-022-04307-9)<br>
 
 - **Multi-information fusion based few-shot Web service classification**  <br>
 [Future Generation Computer Systems] (JCR-Q1) 　Elsevier  <br>
-[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X2100501X)<br>
+[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X2100501X)  　[CODE](https://github.com/ssea-lab/FSC4WebService)  　[DATASET](https://github.com/ssea-lab/FSC4WebService/tree/main/data) <br>
 
 
 - **Graph4Web: A relation-aware graph attention network for web service classification**  <br>
@@ -773,3 +764,8 @@
 - **WS-DIRECT: Web Service—Discoverability, Recoverability, Classifiability and Trustworthiness**   <br>
 [Ubiquitous Information Technologies and Applications] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-94-007-5857-5_95) <br>
+
+
+
+## Public Datasets
+[public-apis](https://github.com/public-apis/public-apis)
