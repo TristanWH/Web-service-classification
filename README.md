@@ -328,7 +328,7 @@
 [PDF](https://link.springer.com/chapter/10.2991/978-94-6239-255-7_45) <br>
 
 
-### Article br>
+### Article <br>
 
 
 
@@ -428,114 +428,121 @@
 
 
 ## 2014
+
 ### Conference paper
-### Article
+
 - **Automatic semantic classification and categorization of web services in digital environment**   <br>
-[] () <br>
+[ICCCT] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7066749) <br>
 
 
 - **Annotating Web Service Sections with Combined Classification**   <br>
-[] () <br>
+[ICWS] (ccf-b) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928952) <br>
 
 
 - **Data mining algorithms for Web-services classification**   <br>
-[] () <br>
+[IC3I] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7019644) <br>
 
 
 - **Towards Effectively Identifying RESTful Web Services**   <br>
-[] () <br>
+[ICWS] (ccf-b) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928939) <br>
+
+### Article <br>
+
+
 
 ## 2013
 ### Conference paper
-### Article
+
 - **A novel classification of web service composition and optimization approach using skyline algorithm integrated with agents**   <br>
-[] () <br>
+[ICCIC] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6724188) <br>
 
 
 - **An ARSM approach using PCB-QoS classification for web services: A multi-perspective view**   <br>
-[] () <br>
+[ICACCI] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6637165) <br>
 
 
+### Article
+
 - **Automatic web services classification based on rough set theory**   <br>
-[] () <br>
+[Journal of Central South University] (JCR-Q2) <br>
 [PDF](https://link.springer.com/article/10.1007/s11771-013-1787-1) <br>
 
 
-- **WS-DIRECT: Web Service—Discoverability, Recoverability, Classifiability and Trustworthiness**   <br>
-[] () <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-94-007-5857-5_95) <br>
 
 ## 2012
+
 ### Conference paper
-### Article
+
 - **A Relational Taxonomy of Services for Large Scale Service Repositories**   <br>
-[] () <br>
+[ICWS] (ccf-b) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6257937) <br>
 
 
-- **An Automated Web Services Composition System Based on Service Classification and AI Planning**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6382868) <br>
-
-
 - **SuStorID: A multiple classifier system for the protection of web services**   <br>
-[] () <br>
+[ICPR] (ccf=c) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6460643) <br>
 
 
 - **Web Service Classification Based on Automatic Semantic Annotation and Ensemble Learning**   <br>
-[] () <br>
+[IPDPSW] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6270593) <br>
 
 
 - **A Classification of Model-Driven Approaches to Develop Semantic Web Service**   <br>
-[] () <br>
+[CSA] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-94-007-2792-2_38) <br>
 
 
 - **Machine Learning for Automatic Classification of Web Service Interface Descriptions**   <br>
-[] () <br>
+[ISoLA] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-642-34781-8_17) <br>
 
+### Article
 
 
 ## 2011
+
 ### Conference paper
-### Article
+
 - **The research and implementation of Web Service classification and discovery based on semantic**   <br>
-[] () <br>
+[CSCWD] (ccf-c) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5960102) <br>
 
 
 - **An Automated Approach to Web Service Classification Based on Semantic**   <br>
-[] () <br>
+[DASC] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6118853) <br>
 
 
 - **ASWSC: Automatic semantic web services classifier based on semantic relations**   <br>
-[] () <br>
+[ICCES] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6141057) <br>
 
 
 - **Locality Sensitive Hashing Based Service Classification**   <br>
-[] () <br>
+[MASS] (ccf-c) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5998757) <br>
 
 
 - **A Composed Approach for Automatic Classification of Web Services Robustness**   <br>
-[] () <br>
+[IEEE SCC] (ccf-c) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6009259) <br>
 
 
 - **An Automatic Service Classification Approach**   <br>
-[] () <br>
+[AINSC] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-642-25661-5_65) <br>
+
+
+### Article
+
+
 
 ## 2010
 ### Conference paper
@@ -779,7 +786,10 @@
 
 ## Book characters
 
-
 - **SC-GAT: Web Services Classification Based on Graph Attention Network**   <br>
 [Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-67537-0_31) <br>
+
+- **WS-DIRECT: Web Service—Discoverability, Recoverability, Classifiability and Trustworthiness**   <br>
+[Ubiquitous Information Technologies and Applications] () <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-94-007-5857-5_95) <br>
