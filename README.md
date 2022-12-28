@@ -91,7 +91,7 @@
 
 - **MMA-Net: A MultiModal-Attention-Based Deep Neural Network for Web Services Classification**   <br>
 [ICSOC] (ccf-b) 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_48)  　[DATASET](https://github.com/miss-rain/serveNet-LT) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_48)  　[DATASET](https://github.com/yylonly/ServeNet/tree/master/Data) <br>
 
 
 - **QoS Aware Classification of Composite Web Services Using Rough Approximation**   <br>
@@ -127,7 +127,7 @@
 
 - **Spectral Clustering of Web Services by Fusing Document-based and Tag-based Topics Similarity**   <br>
 [CBD] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9406908) <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9406908)  　(crawled dataset themselves) <br> 
 
 
 - **Towards Service Ontology for Web Services Storage and Discovery**   <br>
@@ -137,50 +137,39 @@
 
 - **ServeNet: A Deep Neural Network for Web Services Classification**   <br>
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9284071) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9284071)  　[CODE](https://github.com/yylonly/ServeNet)  　[DATASET](https://github.com/yylonly/ServeNet/tree/master/Data) <br>
 
 
 - **A Novel Dual-Graph Convolutional Network based Web Service Classification Framework**   <br>
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9284004) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9284004)  　[DataSet crawled from linked-web-api](http://linked-web-apis.fit.cvut.cz/) <br>
 
 
 - **A Spatial and Sequential Combined Method for Web Service Classification**   <br>
 [APWeb-WAIM] (ccf-c) 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-3-030-60259-8_56) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-60259-8_56)  　[DATASET](https://github.com/yylonly/ServeNet/tree/master/Data) <br>
 
 
 ### Article
 
-- **A Latent Feature-Based Multimodality Fusion Method for Theme Classification on Web Map Service**   <br>
-[IEEE Access] (JCR-Q2)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8908799) <br> 
-
-
 - **A Gen-Fuzzy Based Strategy (GFBS) for Web Service Classification**   <br>
 [WIRELESS PERSONAL COMMUNICATIONS] (JCR=Q3) 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s11277-020-07300-7) <br>
+[PDF](https://link.springer.com/article/10.1007/s11277-020-07300-7)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **Web Service Classification and Prediction Using Rule-Based Approach with Recommendations for Quality Improvements**   <br>
 [AISC] () 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-981-15-1480-7_27) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-981-15-1480-7_27)  　[DATASET](https://qwsdata.github.io/) <br>
 
 
 - **Top-k% Concept Stratagem for Classifying Semantic Web Services**   <br>
 [AISC] () 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-981-13-8618-3_22) <br>
-
-
-- **Semantic web service composition using semantic similarity measures and formal concept analysis**   <br>
-[MULTIMEDIA TOOLS AND APPLICATIONS] (JCR-Q2) 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s11042-019-08441-z) <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-981-13-8618-3_22)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **Efficient fuzzy based K-nearest neighbour technique for web services classification**   <br>
 [Microprocessors and Microsystems] (JCR-Q2) 　Elsevier  <br>
-[PDF](https://www.sciencedirect.com/science/article/pii/S0141933120301150) <br>
-
+[PDF](https://www.sciencedirect.com/science/article/pii/S0141933120301150)  　[DATASET](https://github.com/ryanrhymes/owl_dataset) <br>
 
 
 
@@ -190,7 +179,7 @@
 
 - **Deep Learning for Web Services Classification**   <br>
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8818445) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8818445)  　[CODE](https://github.com/yylonly/ServeNet)  　[DATASET](https://github.com/yylonly/ServeNet/tree/master/Data) <br>
 
 
 - **A Web Services Classification Method Based on GCN**   <br>
