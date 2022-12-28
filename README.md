@@ -30,12 +30,12 @@
 [PDF](https://link.springer.com/article/10.1007/s12652-022-04307-9)<br>
 
 - **Multi-information fusion based few-shot Web service classification**  <br>
-[Future Generation Computer Systems] (JCR-Q1) <br>
+[Future Generation Computer Systems] (JCR-Q1) 　Elsevier  <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S0167739X2100501X)<br>
 
 
 - **Graph4Web: A relation-aware graph attention network for web service classification**  <br>
-[Journal of Systems and Software] (JCR-Q2) <br>
+[Journal of Systems and Software] (JCR-Q2) 　Elsevier  <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S0164121222000681)<br>
 
 
@@ -141,12 +141,12 @@
 
 
 - **Co-attentive representation learning for web services classification**   <br>
-[EXPERT SYSTEMS WITH APPLICATIONS] (JCR-Q1) <br>
+[EXPERT SYSTEMS WITH APPLICATIONS] (JCR-Q1) 　Elsevier  <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S095741742100511X) <br>
 
 
 - **Residual attention graph convolutional network for web services classification**   <br>
-[Neurocomputing] (JCR=Q2) <br>
+[Neurocomputing] (JCR=Q2) 　Elsevier  <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S0925231221001715) <br>
 
 
@@ -207,7 +207,7 @@
 
 
 - **Efficient fuzzy based K-nearest neighbour technique for web services classification**   <br>
-[Microprocessors and Microsystems] (JCR-Q2) <br>
+[Microprocessors and Microsystems] (JCR-Q2) 　Elsevier  <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S0141933120301150) <br>
 
 
@@ -314,7 +314,7 @@
 
 
 - **An Overview and Classification of Service Description Approaches in Automated Service Composition Research**   <br>
-[Transactions on Services Computing] (JCR-Q1) <br>
+[Transactions on Services Computing] (JCR-Q1)  　IEEE  <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7169595) <br>
 
 
@@ -611,7 +611,7 @@
 
 
 - **Web-services classification using intelligent techniques**   <br>
-[EXPERT SYSTEMS WITH APPLICATIONS] (JCR-Q1) <br>
+[EXPERT SYSTEMS WITH APPLICATIONS] (JCR-Q1) 　Elsevier  <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S0957417410001028) <br>
 
 
@@ -684,8 +684,8 @@
 
 
 - **Awsc: An approach to web service classification based on machine learning techniques**   <br>
-[EEE] () <br>
-[PDF](https://www.redalyc.org/pdf/925/92503704.pdf) <br>
+[EEE] () 　Springer  <br>
+[PDF](https://link.springer.com/article/10.1007/s11761-015-0182-1) <br>
 
 
 
@@ -732,7 +732,7 @@
 
 
 - (2007) <br> **Towards a classification of web service feature interactions**   <br>
-[Computer Networks] (JCR-Q1) <br>
+[Computer Networks] (JCR-Q1) 　Elsevier  <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S138912860600212X) <br>
 
 
@@ -759,7 +759,7 @@
 
 
 - **A systematic literature review on web service clustering approaches to enhance service discovery, selection and recommendation**   <br>
-[Computer Science Review] (JCR-Q1) <br>
+[Computer Science Review] (JCR-Q1) 　Elsevier  <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S157401372200034X) <br>
 
 
