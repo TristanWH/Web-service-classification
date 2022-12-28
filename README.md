@@ -227,6 +227,19 @@
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9047453) <br>
 
 
+- **Web Service Classification using Stacking**   <br>
+[AiDAS] () <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970755) <br>
+
+
+- **Context Aware Web Service Recommender Supported by User-Based Classification**   <br>
+[IEC] () <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950573) <br>
+
+
+- **Application of Machine Learning Techniques to Classify Web Services**   <br>
+[INCOS] () <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8951339) <br>
 
 
 ### Article
@@ -236,175 +249,183 @@
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8674750) <br>
 
 
-
-
-
-
-- **Web Service Classification using Stacking**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970755) <br>
-
-
-- **Context Aware Web Service Recommender Supported by User-Based Classification**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950573) <br>
-
-
-- **Application of Machine Learning Techniques to Classify Web Services**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8951339) <br>
-
-
 - **O-ADPI: Online Adaptive Deep-Packet Inspector Using Mahalanobis Distance Map for Web Service Attacks Classification**   <br>
-[] () <br>
+[IEEE Access] (JCR-Q2) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902008) <br>
 
 
 - **Web Services Classification with Topical Attention Based Bi-LSTM**   <br>
-[] () <br>
+[CollaborateCom] (ccf-c) <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-30146-0_27) <br>
 
 
 - **Web Services Classification Across Cloud-Based Applications**   <br>
-[] () <br>
+[CollaborateCom] (ccf-c) <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-981-13-0589-4_23) <br>
 
 
+
 - **N-Gram Representation for Web Service Description Classification**   <br>
-[] () <br>
+[LOD] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-13709-0_38) <br>
 
 
-## 2018
-### Conference paper
-### Article
 - **WiP, Web Services Classification Using an Improved Text Mining Technique**   <br>
-[] () <br>
+[SOCA] (ccf-c) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8599599) <br>
 
 
+
+## 2018
+
+### Conference paper
+
 - **Availability of Web Services based on Autonomous Classification and Negotiation of SLAs**   <br>
-[] () <br>
+[SOCA] (ccf-c) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8525913) <br>
 
 
 - **Cloud Service Selection with Fuzzy C-Means Artificial Immune Network Memory Classifier**   <br>
-[] () <br>
+[CIS] (EI) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8564303) <br>
 
 
+
+### Article
+
 - **A new semantic web service classification (SWSC) strategy**   <br>
-[] () <br>
+[Cluster Computing] (JCR-Q2) <br>
 [PDF](https://link.springer.com/article/10.1007/s10586-018-2367-9) <br>
 
 
+
 ## 2017
+
 ### Conference paper
-### Article
+
 - **Identifying Characteristic Attributes for Estimating Cost of Service in Service Oriented Architecture**   <br>
-[] () <br>
+[IEEE SCC] (ccf-c) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8035019) <br>
 
 
 - **Web services classification for disaster management and risk reduction**   <br>
-[] () <br>
+[ICT-DM] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275668) <br>
 
 
 - **An Overview and Classification of Service Description Approaches in Automated Service Composition Research**   <br>
-[] () <br>
+[Transactions on Services Computing] (JCR-Q1) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7169595) <br>
 
 
 - **Consumer oriented web services ranking and classification**   <br>
-[] () <br>
+[ICC] (ccf-c>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7997263) <br>
 
 
 - **Web service classification approach with an integrated similarity measure**   <br>
-[] () <br>
+[IEEM] () <br>
 [PDF](https://link.springer.com/chapter/10.2991/978-94-6239-255-7_45) <br>
+
+
+### Article br>
+
+
+
    
 ## 2016
 ### Conference paper
-### Article
+
 - **An LDA-SVM Active Learning Framework for Web Service Classification**   <br>
-[] () <br>
+[ICWS] (ccf-b) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557984) <br>
 
 
 - **An Approach of Semantic Web Service Classification Based on Naive Bayes** <br>
+[IEEE SCC] (ccf-c) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557473) <br>
 
 
 - **Web services ontology population through text classification**   <br>
-[] () <br>
+[FedCSIS] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7733283) <br>
 
 
+- **Towards web service classification using addresses and DNS**   <br>
+[IWCMC] () <br>
+[PDF](https://ieeexplore.ieee.org/abstract/document/7577030/) <br>
+
+
+### Article
+
 - **A Majority Vote Based Classifier Ensemble for Web Service Classification**   <br>
-[] () <br>
+[Business & Information Systems Engineering] (JCR-Q1) <br>
 [PDF](https://link.springer.com/article/10.1007/s12599-015-0407-z) <br>
 
 
 - **Semantic approach for Web service classification using machine learning and measures of semantic relatedness**   <br>
-[] () <br>
+[SOCA] (ccf-c) <br>
 [PDF](https://link.springer.com/article/10.1007/s11761-015-0182-1) <br>
 
 
 - **Semantics-based Web service classification using morphological analysis and ensemble learning techniques**   <br>
-[] () <br>
+[JDSA] () <br>
 [PDF](https://link.springer.com/article/10.1007/s41060-016-0026-x) <br>
 
 
 - **Semantic approach for Web service classification using machine learning and measures of semantic relatedness**   <br>
-[] () <br>
+[SOCA] (ccf-c) <br>
 [PDF](https://linkspringer.53yu.com/article/10.1007/s11761-015-0182-1) <br>
 
 
-- **Towards web service classification using addresses and DNS**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/abstract/document/7577030/) <br>
+
 
 ## 2015
+
 ### Conference paper
-### Article
+
 - **QoS based classification using K-Nearest Neighbor algorithm for effective web service selection**   <br>
-[] () <br>
+[ICECCT] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226093) <br>
 
 
-- **Web Services Clustering Using a Bio-inspired Algorithm**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406291) <br>
-
-
 - **Web Service classification using Multi-Layer Perceptron optimized with Tabu search**  <br>
+[IACC] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154716) <br>
 
+
 - **A Semantic Similarity Measure for Conceptual Web Services Classification**   <br>
-[] () <br>
+[WET ICE] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7194344) <br>
 
 
-- **A composite classification model for web services based on semantic & syntactic information integration**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154887) <br>
-
-
-- **A text mining based approach for web service classification**   <br>
-[] () <br>
-[PDF](https://link.springer.com/article/10.1007/s10257-014-0252-5) <br>
-
-
 - **Semantic Matching-Based Selection and QoS-Aware Classification of Web Services**   <br>
-[] () <br>
+[WEBIST] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-27030-2_7) <br>
 
 
+- **A composite classification model for web services based on semantic & syntactic information integration**   <br>
+[IACC] () <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154887) <br>
+
+
+### Article
+
+- **Web Services Clustering Using a Bio-inspired Algorithm**   <br>
+[DEXA] (ccf-c) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406291) <br>
+
+
+- **A text mining based approach for web service classification**   <br>
+[Information Systems and e-Business Management] () <br>
+[PDF](https://link.springer.com/article/10.1007/s10257-014-0252-5) <br>
+
+
 - **Rough set based classification of real world Web services**   <br>
-[] () <br>
+[Information Systems Frontiers] (JCR-Q1) <br>
 [PDF](https://link.springer.com/article/10.1007/s10796-014-9496-3) <br>
+
+
 
 ## 2014
 ### Conference paper
