@@ -540,246 +540,226 @@
 [PDF](https://link.springer.com/chapter/10.1007/978-3-642-25661-5_65) <br>
 
 
-### Article
+### Article <br>
 
 
 
 ## 2010
+
 ### Conference paper
-### Article
+
 - **A managerial community of Web Services for management of communities of Web Services**   <br>
-[] () <br>
+[NOTERE] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5536782) <br>
 
 
 - **Effort-Oriented Classification Matrix of Web Service Composition**   <br>
-[] () <br>
+[ICIW] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5476517) <br>
 
 
 - **Constructing Service Network via Classification and Annotation**   <br>
-[] () <br>
+[SOSE] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5569926) <br>
 
 
 - **Method to Dynamic Classification of Trust for Web Service Based on Intuitionistic Fuzzy Clustering**   <br>
-[] () <br>
+[CiSE] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5676900) <br>
 
 
 - **Measuring Similarity of Web Services Based on WSDL**   <br>
-[] () <br>
+[ICWS] (ccf-b) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5552789) <br>
 
 
 - **Web Services System Optimization Based on Modular Classification and Multi-Threading**   <br>
-[] () <br>
+[NOTERE] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5575687) <br>
 
 
-- **Classifying customers using navigational history for developing personalized Web services**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5530273) <br>
-
-
 - **Light-weight semantics and Bayesian Classification: A hybrid technique for dynamic Web Service discovery**   <br>
-[] () <br>
+[IRI] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5558952) <br>
 
 
 - **Web Service Classification Using Support Vector Machine**   <br>
-[] () <br>
+[ICTAI] (ccf-c) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5670012) <br>
 
 
 - **Constructing Service Network via Classification and Annotation**   <br>
-[] () <br>
+[SOSE] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5569926) <br>
 
 
 - **Applying Text Classification Algorithms in Web Services Robustness Testing**   <br>
-[] () <br>
+[SRDS] (ccf-b) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5623398) <br>
 
 
 - **A WSDL Structure Based Approach for Semantic Categorization of Web Service Elements**   <br>
-[] () <br>
+[SETN] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-642-12842-4_39) <br>
 
 
+### Article
+
 - **Combining Document Classification and Ontology Alignment for Semantically Enriching Web Services**   <br>
-[] () <br>
+[New Generation Computing] (JCR-Q3) <br>
 [PDF](https://link.springer.com/article/10.1007/s00354-009-0094-8) <br>
 
 
 - **Web-services classification using intelligent techniques**   <br>
-[] () <br>
+[EXPERT SYSTEMS WITH APPLICATIONS] (JCR-Q1) <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S0957417410001028) <br>
 
+
+
 ## 2009
+
+
 ### Conference paper
-### Article
+
 - **Web Services Classification Based on Intelligent Clustering Techniques**   <br>
-[] () <br>
+[IFITA] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5232105) <br>
 
 
-- **Quality-context based SOA registry classification for quality of services**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4809528) <br>
-
-
 - **A Research on QoS-based Ontology Model for Web Services Discovery**   <br>
-[] () <br>
+[WKDD] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4772053) <br> 
 
 
 - **A hybrid approach to QoS-aware Web Service classification and recommendation**   <br>
-[] () <br>
+[ICCP] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5284738) <br>
 
 
 - **On the Combination of Textual and Semantic Descriptions for Automated Semantic Web Service Classification**   <br>
-[] () <br>
+[AIAI] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-1-4419-0221-4_13) <br>
 
 
-- **On the Combination of Textual and Semantic Descriptions for Automated Semantic Web Service Classification**   <br>
-[] () <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-1-4419-0221-4_13) <br>
+### Article
 
 
 
 ## 2008
+
 ### Conference paper
-### Article
+
 - **WSPAB: A Tool for Automatic Classification & Selection of Web Services Using Formal Concept Analysis**   <br>
-[] () <br>
+[ECOWS] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4711647) <br>
 
 
 - **Quality Context Taxonomy for Web Service Quality Classification**   <br>
-[] () <br>
+[ICTC] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4682031) <br>
 
 
 - **Domain Classification by Granular Computing used in a P2P Approach for Web Service Discovery**   <br>
-[] () <br>
+[CW] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4741329) <br>
 
 
-- **Multi-level Semantic matching of Geospatial Web Services**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5293450) <br>
 
-
-- **A Faceted Classification Based Approach to Search and Rank Web APIs**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4670174) <br>
-
-
-- **Classification of SOA Contract Specification Languages**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4670205) <br>
-
-
-- **Semantic web service offer discovery for e-commerce**   <br>
-[] () <br>
-[PDF](https://dl.acm.org/doi/10.1145/1409540.1409579) <br>
+### Article
 
 
 - **A Graph b-Coloring Based Method for Composition-Oriented Web Services Classification**   <br>
-[] () <br>
+[ISMIS] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-540-68123-6_65) <br>
 
 
 - **Classification of Web Services Using Tensor Space Model and Rough Ensemble Classifier**   <br>
-[] () <br>
+[ISMIS] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-540-68123-6_55) <br>
 
 
 - **A Formal Model for Classifying Trusted Semantic Web Services**   <br>
-[] () <br>
+[ASWC] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-540-89704-0_37) <br>
 
 
 - **Awsc: An approach to web service classification based on machine learning techniques**   <br>
-[] () <br>
+[EEE] () <br>
 [PDF](https://www.redalyc.org/pdf/925/92503704.pdf) <br>
 
 
 
 ## BEFORE
-### Conference paper
-### Article
-- (2005) <br> **An approach to support Web service classification and annotation**   <br>
-[] () <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1402283) <br>
 
+### Conference paper
 
 - (2006) <br> **Service Classification Using Adaptive Back-Propagation Neural Network and Semantic Similarity**   <br>
-[] () <br>
+[CSCWD] (ccf-c) <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4019222) <br>
 
 
-- (2007) <br> **An Ontology Mediated Web Service Aggregation Hub**   <br>
-[] () <br>
-[PDF](https://dl.acm.org/doi/10.1109/WI.2007.19) <br>
+- (2005) <br> **An approach to support Web service classification and annotation**   <br>
+[EEE] () <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1402283) <br>
 
+
+
+### Article
 
 - (2006) <br> **Semi-automatic Semantic-Based Web Service Classification**   <br>
-[] () <br>
+[BPM] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/11837862_43) <br>
 
 
 - (2005) <br> **Towards a Classification of Web Service Feature Interactions**   <br>
-[] () <br>
+[Computer Networks] (JCR-Q1) <br>
 [PDF](https://link.springer.com/chapter/10.1007/11596141_9) <br>
 
 
 - (2005) <br> **METEOR-S Web Service Annotation Framework with Machine Learning Classification**   <br>
-[] () <br>
+[SWSWPC] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-540-30581-1_12) <br>
 
 
 - (2006) <br> **WSTO: A Classification-Based Ontology for Managing Trust in Semantic Web Services**   <br>
-[] () <br>
+[ESWC] (ccf-c) <br>
 [PDF](https://link.springer.com/chapter/10.1007/11762256_50) <br>
 
 
 - (2004) <br> **Iterative Ensemble Classification for Relational Data: A Case Study of Semantic Web Services**   <br>
-[] () <br>
+[ECML] (ccf-b) <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-540-30115-8_17) <br>
 
 
 - (2007) <br> **Towards a classification of web service feature interactions**   <br>
-[] () <br>
+[Computer Networks] (JCR-Q1) <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S138912860600212X) <br>
 
 
-- (2006) <br> **A heuristic approach to semantic web services classification 
+- (2006) <br> **A heuristic approach to semantic web services classification**   <br>
+[KES] () <br>
 [PDF](https://linkspringer.53yu.com/chapter/10.1007/11893011_76) <br>
 
 
 
 ## Survey paper
 - **A survey on clustering methods in web service discovery**   <br>
-[] () <br>
+[ICECS] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8067866) <br>
 
 
 - **Web service composition: Models and approaches**   <br>
-[] () <br>
+[ICMCS] () <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6320309) <br>
 
 
 - **Web Services Testing Approaches: A Survey and a Classification**   <br>
-[] () <br>
+[NDT] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-642-14306-9_8) <br>
 
 
 - **A systematic literature review on web service clustering approaches to enhance service discovery, selection and recommendation**   <br>
-[] () <br>
+[Computer Science Review] (JCR-Q1) <br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S157401372200034X) <br>
 
 
