@@ -184,55 +184,50 @@
 
 - **A Web Services Classification Method Based on GCN**   <br>
 [BdCloud] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9047453) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9047453)  　[DATASET](https://github.com/ryanrhymes/owl_dataset)  <br>
 
 
 - **Web Service Classification using Stacking**   <br>
 [AiDAS] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970755) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970755)  　[DATASET](https://qwsdata.github.io/) <br>
 
 
 - **Context Aware Web Service Recommender Supported by User-Based Classification**   <br>
 [IEC] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950573) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950573)  　[DATASET](https://qwsdata.github.io/) <br>
 
 
 - **Application of Machine Learning Techniques to Classify Web Services**   <br>
 [INCOS] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8951339) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8951339)  　[DATASET](https://qwsdata.github.io/) <br>
 
 
 ### Article
 
 - **Web Services Classification Based on Wide & Bi-LSTM Model**   <br>
 [IEEE Access] (JCR-Q2)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8674750) <br>
-
-
-- **O-ADPI: Online Adaptive Deep-Packet Inspector Using Mahalanobis Distance Map for Web Service Attacks Classification**   <br>
-[IEEE Access] (JCR-Q2)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902008) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8674750)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/) <br>
 
 
 - **Web Services Classification with Topical Attention Based Bi-LSTM**   <br>
 [CollaborateCom] (ccf-c) 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-3-030-30146-0_27) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-30146-0_27)  　[DATASET](http://kpnm.hnust.cn/xstdset.html) <br>
 
 
 - **Web Services Classification Across Cloud-Based Applications**   <br>
 [CollaborateCom] (ccf-c) 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-981-13-0589-4_23) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-981-13-0589-4_23)  　[DATASET](https://qwsdata.github.io/) <br>
 
 
 
 - **N-Gram Representation for Web Service Description Classification**   <br>
 [LOD] () 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-3-030-13709-0_38) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-13709-0_38) 　  Datasets: 　  [ASSAM](smi.ucd.ie/RSWS)  　[OWLS-TC3/4](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **WiP, Web Services Classification Using an Improved Text Mining Technique**   <br>
 [SOCA] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8599599) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8599599)  　[DATASET](http://projects.semwebcentral.org/projects/sawsdl-tc/) <br>
 
 
 
@@ -240,22 +235,12 @@
 
 ### Conference paper
 
-- **Availability of Web Services based on Autonomous Classification and Negotiation of SLAs**   <br>
-[SOCA] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8525913) <br>
-
-
-- **Cloud Service Selection with Fuzzy C-Means Artificial Immune Network Memory Classifier**   <br>
-[CIS] (EI)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8564303) <br>
-
-
 
 ### Article
 
 - **A new semantic web service classification (SWSC) strategy**   <br>
 [Cluster Computing] (JCR-Q2) 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s10586-018-2367-9) <br>
+[PDF](https://link.springer.com/article/10.1007/s10586-018-2367-9)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 
@@ -263,19 +248,9 @@
 
 ### Conference paper
 
-- **Identifying Characteristic Attributes for Estimating Cost of Service in Service Oriented Architecture**   <br>
-[IEEE SCC] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8035019) <br>
-
-
 - **Web services classification for disaster management and risk reduction**   <br>
 [ICT-DM] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275668) <br>
-
-
-- **An Overview and Classification of Service Description Approaches in Automated Service Composition Research**   <br>
-[Transactions on Services Computing] (JCR-Q1)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7169595) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275668)  　[DATASET](https://qwsdata.github.io/) <br>
 
 
 - **Consumer oriented web services ranking and classification**   <br>
@@ -285,7 +260,7 @@
 
 - **Web service classification approach with an integrated similarity measure**   <br>
 [IEEM] () 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.2991/978-94-6239-255-7_45) <br>
+[PDF](https://link.springer.com/chapter/10.2991/978-94-6239-255-7_45)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 ### Article <br>
@@ -298,18 +273,17 @@
 
 - **An LDA-SVM Active Learning Framework for Web Service Classification**   <br>
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557984) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557984)  　[DATASET](https://appsrv.cse.cuhk.edu.hk/user/ylzhang/doku.php?id=icwsdata) (cant be accessed) <br>
 
 
 - **An Approach of Semantic Web Service Classification Based on Naive Bayes** <br>
 [IEEE SCC] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557473) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557473)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **Web services ontology population through text classification**   <br>
 [FedCSIS] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7733283) <br>
-
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7733283)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 - **Towards web service classification using addresses and DNS**   <br>
 [IWCMC] ()  　IEEE  <br>
@@ -320,23 +294,17 @@
 
 - **A Majority Vote Based Classifier Ensemble for Web Service Classification**   <br>
 [Business & Information Systems Engineering] (JCR-Q1) 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s12599-015-0407-z) <br>
+[PDF](https://link.springer.com/article/10.1007/s12599-015-0407-z)  　[DATASET](http://www.wsdream.net/dataset.html)(确实是论文给的网址，但点开是乱七八糟的东西)   <br>
 
 
 - **Semantic approach for Web service classification using machine learning and measures of semantic relatedness**   <br>
 [SOCA] (ccf-c) 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s11761-015-0182-1) <br>
+[PDF](https://link.springer.com/article/10.1007/s11761-015-0182-1)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **Semantics-based Web service classification using morphological analysis and ensemble learning techniques**   <br>
 [JDSA] () 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s41060-016-0026-x) <br>
-
-
-- **Semantic approach for Web service classification using machine learning and measures of semantic relatedness**   <br>
-[SOCA] (ccf-c) 　Springer  <br>
-[PDF](https://linkspringer.53yu.com/article/10.1007/s11761-015-0182-1) <br>
-
+[PDF](https://link.springer.com/article/10.1007/s41060-016-0026-x)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 
@@ -346,44 +314,44 @@
 
 - **QoS based classification using K-Nearest Neighbor algorithm for effective web service selection**   <br>
 [ICECCT] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226093) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226093)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **Web Service classification using Multi-Layer Perceptron optimized with Tabu search**  <br>
 [IACC] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154716) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154716) <br>  　[DATASET](https://qwsdata.github.io/) <br>
 
 
 - **A Semantic Similarity Measure for Conceptual Web Services Classification**   <br>
 [WET ICE] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7194344) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7194344)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **Semantic Matching-Based Selection and QoS-Aware Classification of Web Services**   <br>
 [WEBIST] () 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-3-319-27030-2_7) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-27030-2_7)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **A composite classification model for web services based on semantic & syntactic information integration**   <br>
 [IACC] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154887) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154887)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 ### Article
 
 - **Web Services Clustering Using a Bio-inspired Algorithm**   <br>
 [DEXA] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406291) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406291)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **A text mining based approach for web service classification**   <br>
 [Information Systems and e-Business Management] () 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s10257-014-0252-5) <br>
+[PDF](https://link.springer.com/article/10.1007/s10257-014-0252-5)  　(crawled dataset themselves) <br> 
 
 
 - **Rough set based classification of real world Web services**   <br>
 [Information Systems Frontiers] (JCR-Q1) 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s10796-014-9496-3) <br>
+[PDF](https://link.springer.com/article/10.1007/s10796-014-9496-3)  　[DATASET](https://qwsdata.github.io/) <br>
 
 
 
@@ -393,22 +361,17 @@
 
 - **Automatic semantic classification and categorization of web services in digital environment**   <br>
 [ICCCT] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7066749) <br>
-
-
-- **Annotating Web Service Sections with Combined Classification**   <br>
-[ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928952) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7066749)  　(crawled dataset themselves) <br> 
 
 
 - **Data mining algorithms for Web-services classification**   <br>
 [IC3I] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7019644) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7019644)  　[DATASET](https://qwsdata.github.io/) <br>
 
 
 - **Towards Effectively Identifying RESTful Web Services**   <br>
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928939) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6928939)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/) <br>
 
 ### Article <br>
 
@@ -417,21 +380,17 @@
 ## 2013
 ### Conference paper
 
-- **A novel classification of web service composition and optimization approach using skyline algorithm integrated with agents**   <br>
-[ICCIC] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6724188) <br>
-
 
 - **An ARSM approach using PCB-QoS classification for web services: A multi-perspective view**   <br>
 [ICACCI] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6637165) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6637165)  　[DATASET](https://qwsdata.github.io/) <br>
 
 
 ### Article
 
 - **Automatic web services classification based on rough set theory**   <br>
 [Journal of Central South University] (JCR-Q2) 　Springer  <br>
-[PDF](https://link.springer.com/article/10.1007/s11771-013-1787-1) <br>
+[PDF](https://link.springer.com/article/10.1007/s11771-013-1787-1)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 
@@ -441,30 +400,25 @@
 
 - **A Relational Taxonomy of Services for Large Scale Service Repositories**   <br>
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6257937) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6257937)  　[DATASET](http://ws-challenge.org/) <br>
 
 
 - **SuStorID: A multiple classifier system for the protection of web services**   <br>
 [ICPR] (ccf=c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6460643) <br>
-
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6460643)  　[CODE](http://comsec.diee.unica.it/sustorid) <br> 
 
 - **Web Service Classification Based on Automatic Semantic Annotation and Ensemble Learning**   <br>
 [IPDPSW] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6270593) <br>
-
-
-- **A Classification of Model-Driven Approaches to Develop Semantic Web Service**   <br>
-[CSA] () 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-94-007-2792-2_38) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6270593)  　(crawled dataset themselves) <br> 
 
 
 - **Machine Learning for Automatic Classification of Web Service Interface Descriptions**   <br>
 [ISoLA] () 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-3-642-34781-8_17) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-642-34781-8_17)  　[DATASET](http://www.andreas-hess.info/projects/annotator/ws2003.html) <br>
+
+
 
 ### Article
-
 
 ## 2011
 
@@ -477,17 +431,12 @@
 
 - **An Automated Approach to Web Service Classification Based on Semantic**   <br>
 [DASC] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6118853) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6118853)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **ASWSC: Automatic semantic web services classifier based on semantic relations**   <br>
 [ICCES] ()  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6141057) <br>
-
-
-- **Locality Sensitive Hashing Based Service Classification**   <br>
-[MASS] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5998757) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6141057)  　[DATASET](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
 
 
 - **A Composed Approach for Automatic Classification of Web Services Robustness**   <br>
@@ -497,7 +446,7 @@
 
 - **An Automatic Service Classification Approach**   <br>
 [AINSC] () 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-3-642-25661-5_65) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-642-25661-5_65)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/)  <br>
 
 
 ### Article <br>
@@ -739,7 +688,12 @@
 [Ubiquitous Information Technologies and Applications] () <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-94-007-5857-5_95) <br>
 
-
+WebServiceList [1], RemoteMethods [2], 
+WSIndex [3], and XMethods.net [4].
 
 ## Public Datasets
-[public-apis](https://github.com/public-apis/public-apis)
+[public-apis](https://github.com/public-apis/public-apis) <br>
+[WebServiceList](http://www.webservicelist.com) <br>
+[RemoteMethods](http://www.remotemethods.com)  <br>
+[WSIndex](http://www.wsindex.org) <br>
+[SOAP Web service directory](http://www.membrane-soa.org/service-proxy-doc/)
