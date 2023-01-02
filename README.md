@@ -202,6 +202,14 @@
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8951339)  　[DATASET](https://qwsdata.github.io/) <br>
 
 
+- **N-Gram Representation for Web Service Description Classification**   <br>
+[LOD] () 　Springer  <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-13709-0_38) 　  Datasets: 　  [ASSAM](smi.ucd.ie/RSWS)  　[OWLS-TC3/4](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
+
+
+- **WiP, Web Services Classification Using an Improved Text Mining Technique**   <br>
+[SOCA] (ccf-c)  　IEEE  <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8599599)  　[DATASET](http://projects.semwebcentral.org/projects/sawsdl-tc/) <br>
 ### Article
 
 - **Web Services Classification Based on Wide & Bi-LSTM Model**   <br>
@@ -217,17 +225,6 @@
 - **Web Services Classification Across Cloud-Based Applications**   <br>
 [CollaborateCom] (ccf-c) 　Springer  <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-981-13-0589-4_23)  　[DATASET](https://qwsdata.github.io/) <br>
-
-
-
-- **N-Gram Representation for Web Service Description Classification**   <br>
-[LOD] () 　Springer  <br>
-[PDF](https://link.springer.com/chapter/10.1007/978-3-030-13709-0_38) 　  Datasets: 　  [ASSAM](smi.ucd.ie/RSWS)  　[OWLS-TC3/4](http://lpis.csd.auth.gr/systems/OWLS-SLR/datasets.html) <br>
-
-
-- **WiP, Web Services Classification Using an Improved Text Mining Technique**   <br>
-[SOCA] (ccf-c)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8599599)  　[DATASET](http://projects.semwebcentral.org/projects/sawsdl-tc/) <br>
 
 
 
