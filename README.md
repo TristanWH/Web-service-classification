@@ -123,7 +123,7 @@
 
 - **基于GAT2VEC的Web服务分类方法**   <br>
 [软件学报] (ccf-a) 　CNKI  <br>
-[PDF(https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=RJXB202112006&uniplatform=NZKPT&v=ed6oAmHPQrKmXR7T34DQaOKrznFV2ZpTyXUvxXwUe297al76xdInTY8S1OQgz_13)
+[PDF](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=RJXB202112006&uniplatform=NZKPT&v=ed6oAmHPQrKmXR7T34DQaOKrznFV2ZpTyXUvxXwUe297al76xdInTY8S1OQgz_13)
 
 
 ## 2020
@@ -236,7 +236,7 @@
 
 - **一种领域自适应的Web服务分类方法**   <br>
 [计算机与数字工程] (ccf-c) 　CNKI  <br>
-[PDF(https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=JSSG201905034&uniplatform=NZKPT&v=eupiAATKazzGfxhdP92o4JjpGZhMyGRMAM1EZtkc-jODauPd98qD-6ejszZSeOBc)
+[PDF](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=JSSG201905034&uniplatform=NZKPT&v=eupiAATKazzGfxhdP92o4JjpGZhMyGRMAM1EZtkc-jODauPd98qD-6ejszZSeOBc)
 
 
 
@@ -404,7 +404,7 @@
 
 - **基于自动语义标注和集成学习的Web服务分类**   <br>
 [小型微型计算机系统] (ccf-b) 　CNKI  <br>
-[PDF(https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2013&filename=XXWX201301004&uniplatform=NZKPT&v=poZaJh8fzv6MmkpIOWwaKFNU-SOsO2RsJcRLlkG4AzNkVFCVb9Dptm34PMukVm3n)
+[PDF](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2013&filename=XXWX201301004&uniplatform=NZKPT&v=poZaJh8fzv6MmkpIOWwaKFNU-SOsO2RsJcRLlkG4AzNkVFCVb9Dptm34PMukVm3n)
 
 
 
@@ -469,7 +469,7 @@
 
 - **面向功能的Web服务分类系统研究与实现**   <br>
 [小型微型计算机系统] (ccf-b) 　CNKI  <br>
-[PDF(https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2013&filename=XXWX201301008&uniplatform=NZKPT&v=poZaJh8fzv6c8mblt_KXvjhBKIhRVrCOSqNFHQ8TJFMncqnJ1zBBTNcF_-3fzV1O)
+[PDF](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2013&filename=XXWX201301008&uniplatform=NZKPT&v=poZaJh8fzv6c8mblt_KXvjhBKIhRVrCOSqNFHQ8TJFMncqnJ1zBBTNcF_-3fzV1O)
 
 
 ## 2010
