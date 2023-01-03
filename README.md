@@ -35,7 +35,7 @@
 ### Conference paper
 
 - **Heterogeneous Graph Attention Network-Enhanced Web Service Classification**   <br>
-[ICWC] (ccf-b)  　IEEE  <br>
+[ICWS] (ccf-b)  　IEEE  <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590331)   　[DataSet crawled from ProgrammableWeb](https://www.programmableweb.com/)  <br>
 
 
