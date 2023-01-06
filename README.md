@@ -107,7 +107,7 @@
 
 
 - **A Classification Based Web Service Selection Approach**   <br>
-[IEEE Transactions on Services Computing]  　IEEE  (JCR-Q1) <br>
+[IEEE Transactions on Services Computing](JCR-Q1)  　IEEE  <br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8290689)  　[DATASET](http://www.uoguelph.ca/~qmahmoud/qws) <br>
 
 
