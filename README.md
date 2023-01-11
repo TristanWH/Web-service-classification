@@ -64,9 +64,9 @@
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9529561) <br>
 
 
-- **An LDA-SVM Active Learning Framework for Web Service Classification**  <br>
+- **Classifying Quality of Web Services Using Machine Learning Classification and Cross Validation Techniques**  <br>
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773416)  　[DATASET](http://wiki.cse.cuhk.edu.hk/user/ylzhang/doku.php?id=icwsdata)  <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773416)  　[DATASET](https://qwsdata.github.io/)  <br>
 
 
 - **WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction**  <br>
@@ -282,7 +282,7 @@
 
 - **An LDA-SVM Active Learning Framework for Web Service Classification**   <br>
 [ICWS] (ccf-b)  　IEEE  <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557984)  　[DATASET](https://appsrv.cse.cuhk.edu.hk/user/ylzhang/doku.php?id=icwsdata) (cant be accessed) <br>
+[PDF](https://ieeexplore.ieee.org/document/7557984)  　[DATASET](https://appsrv.cse.cuhk.edu.hk/user/ylzhang/doku.php?id=icwsdata) (cant be accessed) <br>
 
 
 - **An Approach of Semantic Web Service Classification Based on Naive Bayes** <br>
