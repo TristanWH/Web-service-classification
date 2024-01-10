@@ -1,8 +1,22 @@
 # Papers for Web service classification
 
 
+## 2023
+### Conference paper
+
+- **Extended Abstract of Graph4Web: A Relation-Aware Graph Attention Network for Web Service Classification**  <br>
+[SANER] (ccf-b)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10123503)  <br>
+
+
+
 ## 2022
 ### Conference paper
+
+- **A Web Service Classification Method Based on Graph Neural Network Knowledge Distillation**  <br>
+[UIC](ccf-c)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10189603)
+
 
 - **Attentional Neural Factorization Machine for Web Services Classification via Exploring Content and Structural Semantics**  <br>
 [IJCNN] (ccf-c)  　IEEE  <br> 
